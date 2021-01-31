@@ -1,8 +1,9 @@
 ## 合成大西瓜
 
-未修改版源码，可直接在浏览器运行
+修改版源码，可直接在浏览器运行
+[未修改](https://github.com/liyupi/daxigua)
 
-在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
+在线玩：[http://daxiga-git-master.mugen-cmd.vercel.app/](http://daxiga-git-master.mugen-cmd.vercel.app/)
 
 
 ### 本地启动
